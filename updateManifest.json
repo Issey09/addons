@@ -4,7 +4,7 @@
         "updates": [
           {
             "version": "1.6",
-            "update_link": "https://ds.doncieu.fr:8009/firefoxextensions/updates/borderify/borderify.xpi"
+            "update_link": "https://github.com/Issey09/addons/raw/master/borderify.xpi"
           }
         ]
       }
