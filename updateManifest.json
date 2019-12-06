@@ -1,0 +1,12 @@
+{
+    "addons": {
+      "addons@hippo}": {
+        "updates": [
+          {
+            "version": "1.6",
+            "update_link": "https://ds.doncieu.fr:8009/firefoxextensions/updates/borderify/borderify.xpi"
+          }
+        ]
+      }
+    }
+  }
