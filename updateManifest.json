@@ -3,7 +3,7 @@
       "addons@hippo}": {
         "updates": [
           {
-            "version": "1.7",
+            "version": "1.8",
             "update_link": "https://github.com/Issey09/addons/raw/master/borderify.xpi"
           }
         ]
